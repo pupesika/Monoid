@@ -1,0 +1,22 @@
+@import "reset.css";
+@import "content.css";
+
+@font-face {
+    font-family: "Monoid-Bold";
+    src: url("../fonts/Monoid-Bold.ttf")
+}
+
+@font-face {
+    font-family: "Monoid-Italic";
+    src: url("../fonts/Monoid-Italic.ttf")
+}
+
+@font-face {
+    font-family: "Monoid-Regular";
+    src: url("../fonts/Monoid-Regular.ttf")
+}
+
+@font-face {
+    font-family: "Monoid-Retina";
+    src: url("../fonts/Monoid-Retina.ttf")
+}
